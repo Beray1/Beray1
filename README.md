@@ -5,7 +5,7 @@ I love Linux, tinkering with systems and learning how to secure them. Building m
 
 ## 🛠️ Skills
 
-**Linux distros**
+**Linux distros** 
 ![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
