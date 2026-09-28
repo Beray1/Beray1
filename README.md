@@ -5,7 +5,10 @@ I love Linux, tinkering with systems and learning how to secure them. Building m
 
 ## 🛠️ Skills
 
-**Linux distros** 
+### 💻 Operating Systems
+
+**Linux (general use)**
+
 ![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
@@ -14,10 +17,12 @@ I love Linux, tinkering with systems and learning how to secure them. Building m
 ![Pop!_OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=pop-os&logoColor=white)
 
 **Linux (security-focused)**
+
 ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Parrot](https://img.shields.io/badge/Parrot_Security-15E0ED?style=for-the-badge&logo=parrotsecurity&logoColor=black)
 
-**Operating systems**
+**Windows**
+
 ![Windows](https://img.shields.io/badge/Windows_7,_10,_11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ### 🖥️ Desktop Environments
