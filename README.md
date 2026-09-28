@@ -26,19 +26,21 @@ Linux nerd who's run everything from Arch to Kali, and now I'm learning how to b
 [![Windows](https://img.shields.io/badge/Windows_7,_10,_11-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/software-download/windows11)
 
 ### 🖥️ Desktop Environments
-![GNOME](https://img.shields.io/badge/GNOME-4A86CF?style=for-the-badge&logo=gnome&logoColor=white)
-![KDE](https://img.shields.io/badge/KDE_Plasma-1D99F3?style=for-the-badge&logo=kde&logoColor=white)
-![XFCE](https://img.shields.io/badge/XFCE-2284F2?style=for-the-badge&logo=xfce&logoColor=white)
 
+[![GNOME](https://img.shields.io/badge/GNOME-4A86CF?style=for-the-badge&logo=gnome&logoColor=white)](https://www.gnome.org/)
+[![KDE](https://img.shields.io/badge/KDE_Plasma-1D99F3?style=for-the-badge&logo=kde&logoColor=white)](https://kde.org/plasma-desktop/)
+[![XFCE](https://img.shields.io/badge/XFCE-2284F2?style=for-the-badge&logo=xfce&logoColor=white)](https://www.xfce.org/)
 
 ### 📦 Virtualisation
-![Virt-Manager](https://img.shields.io/badge/Virt--Manager-KVM_/_QEMU-CC0000?style=for-the-badge)
-![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+
+[![Virt-Manager](https://img.shields.io/badge/Virt--Manager-KVM_/_QEMU-CC0000?style=for-the-badge)](https://virt-manager.org/)
+[![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)](https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion)
 
 ### 🔧 Tools
-![Bash](https://img.shields.io/badge/Terminal-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-Network_Scanning-4682B4?style=for-the-badge)
+
+[![Terminal](https://img.shields.io/badge/Terminal-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/downloads)
+[![Nmap](https://img.shields.io/badge/Nmap-Network_Scanning-4682B4?style=for-the-badge)](https://nmap.org/download.html)
 
 ## 📚 Currently Learning
 | Topic | Status |
@@ -50,3 +52,7 @@ Linux nerd who's run everything from Arch to Kali, and now I'm learning how to b
 
 ## 🚀 Projects
 Coming soon, I'll be adding my Linux notes and lab write-ups here.
+
+## 🎓 Education
+- Level 2 OCR Cambridge Technical Diploma in IT, City of Portsmouth College.
+- BSc Cyber Security, The Open University (in progress).
