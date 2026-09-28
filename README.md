@@ -1,7 +1,7 @@
 # Hey, I'm Beray 👋
 
-Cyber Security student (Open University, BSc Cyber Security R60) based in England.
-I love Linux, tinkering with systems and learning how to secure them. Building my skills in public 🔧
+Cyber Security student (Open University, BSc Cyber Security) based in England. 
+Linux nerd who's run everything from Arch to Kali, and now I'm learning how to break it, defend it and document it properly 🔧
 
 ## 🛠️ Skills
 
